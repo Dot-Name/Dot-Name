@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
 <h3 align="center">A passionate of MERN Stack developer from India</h3>
-<img align="right" alt = "coding" width= "350" src="https://www.lambdatest.com/resources/images/news24.gif"> 
+<img align="right" alt = "coding" width= "500" src="https://www.lambdatest.com/resources/images/news24.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dot-name&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=dot-name&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
 
 - 🌱 I’m currently learning **JAVA with UDEMY**
 
