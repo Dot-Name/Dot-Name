@@ -1,29 +1,31 @@
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Modern Web Apps</h3>
+<h3 align="center">🚀 MERN Stack Developer | Tech Content Creator | React Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+Source+Enthusiast;Building+Cool+Web+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Creating+Coding+Content+on+YouTube;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 🌌 Developer Banner
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750251-f6f7f7e5-1d90-4c4f-b55f-c3d83b0b8b6d.gif" width="100%" />
+</p>
 
+---
+
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🚀 MERN Stack Developer from **India**
 - 🌱 Currently learning **Java & Advanced Backend Development**
-
-- 🚀 Building **Full Stack MERN Applications**
-
-- 🎥 Creating **Web Development YouTube Content**
-
+- 🎥 Creating **Web Development Tutorials on YouTube**
 - 💬 Ask me about **React, GSAP, MERN Stack**
-
-- 📫 Reach me at  
-**manishsingh1409@gmail.com**
-
-- ⚡ Fun Fact  
-**I believe trust is the foundation of everything**
+- 🧠 Interested in **3D Web Development & System Projects**
+- 📫 Reach me at **manishsingh1409@gmail.com**
+- ⚡ Fun fact: **Trust is the most powerful currency**
 
 ---
 
@@ -31,26 +33,38 @@
 
 <p align="center">
 
-<a href="https://twitter.com/manishs103">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://www.linkedin.com/in/manish-singh-96a2bb273/">
+<img src="https://img.shields.io/badge/LinkedIn-Manish%20Singh-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.youtube.com/@ManishTheCoder">
+<img src="https://img.shields.io/badge/YouTube-ManishTheCoder-red?style=for-the-badge&logo=youtube" />
 </a>
 
-<a href="https://youtube.com">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://leetcode.com/u/manish_singh9899/">
+<img src="https://img.shields.io/badge/LeetCode-Manish-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
-<a href="https://instagram.com/manish_singh9899">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:manishsingh1409@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+</p>
 
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dot-name&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dot-name&theme=algolia&row=2&column=4"/>
 </p>
 
 ---
@@ -58,33 +72,23 @@
 # 🛠️ Tech Stack
 
 ### 🚀 Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,cpp,c,java,python" />
+<img src="https://skillicons.dev/icons?i=js,java,c,cpp,python" />
 </p>
 
----
-
 ### 🎨 Frontend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,threejs" />
 </p>
 
----
-
 ### ⚙️ Backend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
----
-
 ### 🧰 Tools
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman,figma" />
 </p>
 
 ---
@@ -93,58 +97,21 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dot-name&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dot-name&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dot-name&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dot-name&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dot-name&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dot-name&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dot-name&theme=tokyo-night"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🌍 MERN Full Stack Projects
-
-- 🔹 **Godims Platform**  
-A full MERN stack digital services platform with authentication, admin dashboard, and service management.
-
-- 🔹 **3D Solar System (Three.js)**  
-Interactive solar system simulation using Three.js.
-
-- 🔹 **Proxy Server (Networking Project)**  
-System-level networking project built using C++.
-
----
-
-# 🎥 YouTube Content
-
-I create tutorials on:
-
-- Web Development
-- React Projects
-- MERN Stack
-- Programming
-
-📺 Subscribe to my channel for coding tutorials.
-
----
-
-# 🧠 Currently Learning
-
-- Advanced Backend
-- System Design
-- Java
-- Networking
 
 ---
 
@@ -156,16 +123,68 @@ I create tutorials on:
 
 ---
 
+# 🎧 Spotify
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31kam62ne3f4zjnurs2agtgmai4e&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+# 🎥 Latest YouTube Videos
+
+<p align="center">
+
+<a href="https://www.youtube.com/@ManishTheCoder">
+<img src="https://img.shields.io/badge/Visit%20My%20Channel-ManishTheCoder-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Godims Platform
+Full MERN stack digital solutions platform with authentication, admin dashboard, services, and notification system.
+
+### 🎨 React + GSAP Projects
+Creative UI animations and modern frontend experiences.
+
+### 🌍 3D Web Projects
+Interactive 3D websites using **React Three Fiber and Three.js**.
+
+### 🖧 Networking / System Projects
+Low-level programming projects including **Proxy Servers and system tools**.
+
+---
+
+# 📚 Currently Learning
+
+- Java
+- System Design
+- Advanced MERN Stack
+- Backend Architecture
+- Networking Concepts
+
+---
+
 # ⭐ Support My Work
 
-If you like my projects:
+<p align="center">
 
-⭐ Star my repositories  
-🍴 Fork them  
-📢 Share them  
+<a href="https://github.com/dot-name?tab=followers">
+<img src="https://img.shields.io/github/followers/dot-name?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/dot-name">
+<img src="https://img.shields.io/badge/Explore%20Projects-GitHub-blue?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-🔥 “Code. Learn. Build. Repeat.” 🔥
+🔥 Code • Build • Learn • Repeat 🔥
 </p>
