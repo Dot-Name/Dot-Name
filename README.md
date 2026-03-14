@@ -1,54 +1,171 @@
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">🚀 MERN Stack Developer | Building Modern Web Apps</h3>
 
-<!-- Responsive Coding GIF -->
 <p align="center">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding" width="100%" style="max-width: 450px;">
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dot-name&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" />
-</p>
-
-- 🌱 I’m currently learning **JAVA with UDEMY**
-
-- 💬 Ask me about **React, GSAP**
-
-- 📫 How to reach me: **manishsingh1409@gmail.com**
-
-- ⚡ Fun fact: **I think I am a trustworthy person**
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/manishs103" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/manish singh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/manish singh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-  <a href="https://fb.com/manish singh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/manish_singh9899" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/manish singh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/manish" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+Source+Enthusiast;Building+Cool+Web+Experiences" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+# 🧑‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌱 Currently learning **Java & Advanced Backend Development**
+
+- 🚀 Building **Full Stack MERN Applications**
+
+- 🎥 Creating **Web Development YouTube Content**
+
+- 💬 Ask me about **React, GSAP, MERN Stack**
+
+- 📫 Reach me at  
+**manishsingh1409@gmail.com**
+
+- ⚡ Fun Fact  
+**I believe trust is the foundation of everything**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <!-- Icon Links -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <!-- Add more icons as needed -->
+
+<a href="https://twitter.com/manishs103">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/manish_singh9899">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+# 🛠️ Tech Stack
+
+### 🚀 Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dot-name&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" style="max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dot-name&show_icons=true&locale=en" alt="GitHub Stats" width="100%" style="max-width: 400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dot-name" alt="GitHub Streak" width="100%" style="max-width: 400px;" />
+<img src="https://skillicons.dev/icons?i=js,cpp,c,java,python" />
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,threejs" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dot-name&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dot-name&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dot-name&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dot-name&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌍 MERN Full Stack Projects
+
+- 🔹 **Godims Platform**  
+A full MERN stack digital services platform with authentication, admin dashboard, and service management.
+
+- 🔹 **3D Solar System (Three.js)**  
+Interactive solar system simulation using Three.js.
+
+- 🔹 **Proxy Server (Networking Project)**  
+System-level networking project built using C++.
+
+---
+
+# 🎥 YouTube Content
+
+I create tutorials on:
+
+- Web Development
+- React Projects
+- MERN Stack
+- Programming
+
+📺 Subscribe to my channel for coding tutorials.
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced Backend
+- System Design
+- Java
+- Networking
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# ⭐ Support My Work
+
+If you like my projects:
+
+⭐ Star my repositories  
+🍴 Fork them  
+📢 Share them  
+
+---
+
+<p align="center">
+🔥 “Code. Learn. Build. Repeat.” 🔥
 </p>
