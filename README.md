@@ -33,7 +33,7 @@
       <blockquote>⚡ <b>Fun Fact:</b> Trust is the most powerful currency in open-source and engineering.</blockquote>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3Z5cmZpZDJwYmN0ZXl4amI3Z3Zpa3N0bXlyYmxsZ3N2Z3h3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiLI4M7mtH/giphy.gif" width="85%" alt="Creative Developer GIF"/>
+      <img src="https://i.giphy.com/media/3p50WGyUqiLI4M7mtH/giphy.gif" width="85%" alt="Creative Developer GIF"/>
     </td>
   </tr>
 </table>
